@@ -7,4 +7,7 @@ void main(List<String> args) {
   } else if (trafficlight == 'green') {
     print('Go');
   }
+  else {
+    print('Traffic light broken! Call 911');
+  }
 }
