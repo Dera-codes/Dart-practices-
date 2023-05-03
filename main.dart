@@ -3,7 +3,7 @@ void main(List<String> args) {
   if (trafficlight == 'red') {
     print('Stop');
   } else if (trafficlight == 'yellow') {
-    print('Ready');
+    print('slowdown');
   } else if (trafficlight == 'green') {
     print('Go');
   }
